@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vojj
+- 👀 I’m interested in a lot
+- 🌱 I’m currently learning C#, Xamarin, Python, PHP
+- 💞️ I’m looking to collaborate on my BoatControl APP
+- 📫 How to reach me via github
