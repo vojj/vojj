@@ -1,0 +1,25 @@
+# Maven
+target/
+.mvn/timing.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+*.swp
+
+# Vaadin (generated at build time)
+node_modules/
+package-lock.json
+webpack.config.js
+vite.config.ts
+.npmrc
+pnpm-lock.yaml
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
